@@ -14,9 +14,9 @@
 
 - [JS 函数式编程指南](https://github.com/llh911001/mostly-adequate-guide-chinese) · 2017-05
 
-- [快乐的Linux命令行](http://billie66.github.io/TLCL/book/zh/index.html) · 2017-05
+- [快乐的 Linux 命令行](http://billie66.github.io/TLCL/book/zh/index.html) · 2017-05
 
-- 高性能PHP7 · 2017-06
+- 高性能 PHP7 · 2017-06
 
 - UNIX 编程艺术 · 2017-06
 
