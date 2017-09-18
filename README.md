@@ -26,6 +26,7 @@
 
 - Vue.js 权威指南 && Vue 官方文档 (全家桶) · 2017-08
 
+- JavaScript 高级程序设计 · 2017-09
 
 
 <h2 id="literature">文学</h2>
