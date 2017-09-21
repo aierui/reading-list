@@ -26,7 +26,10 @@
 
 - Vue.js 权威指南 && Vue 官方文档 (全家桶) · 2017-08
 
+- 学习JavaScript数据结构与算法 · 2017-09
+
 - JavaScript 高级程序设计 · 2017-09
+
 
 
 <h2 id="literature">文学</h2>
