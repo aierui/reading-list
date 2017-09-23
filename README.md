@@ -30,6 +30,8 @@
 
 - JavaScript 高级程序设计 · 2017-09
 
+- 你不知道的 JavaScript · 2017-09
+
 
 
 <h2 id="literature">文学</h2>
