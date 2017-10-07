@@ -30,7 +30,13 @@
 
 - JavaScript 高级程序设计 · 2017-09
 
-- 你不知道的 JavaScript · 2017-09
+- 你不知道的 JavaScript(上卷) · 2017-09
+
+- 你不知道的 JavaScript(中卷) · 2017-10
+
+- JavaScript 设计模式 · 2017-10
+
+
 
 
 
