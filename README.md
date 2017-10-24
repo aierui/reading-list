@@ -34,7 +34,12 @@
 
 - 你不知道的 JavaScript(中卷) · 2017-10
 
+- [你不知道的 JavaScript · 2017-10](https://github.com/getify/You-Dont-Know-JS/tree/master)
+
 - JavaScript 设计模式 · 2017-10
+
+- 阿里巴巴Java开发手册(终极版) · 2017-10
+
 
 
 
