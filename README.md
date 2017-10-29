@@ -8,6 +8,8 @@
 
 - [文学](#literature)
 
+- [名人](#famous-person)
+
 
 
 <h2 id="technology">技术</h2>
@@ -47,10 +49,7 @@
 
 
 
-
-
-
-<h2 id="literature">名人</h2>
+<h2 id="famous-person">名人</h2>
 
 
 - 蒂姆·伯纳斯-李
