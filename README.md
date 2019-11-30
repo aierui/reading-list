@@ -92,7 +92,6 @@
 
 
 
-
 <h2 id="famous-person">名人</h2>
 
 
